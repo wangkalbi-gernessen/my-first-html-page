@@ -1,0 +1,9 @@
+html, body{
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b1/Skytree_%26_Asahi_Breweries_Building%2C_from_Azumabashi%2C_Asakusa_2012_%E2%85%A2.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
